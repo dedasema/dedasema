@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Hola, me llamo Dennis👋🏽
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedasema)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedasema&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedasema&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedasema&show_icons=true&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dedasema&repo=github-readme-stats)](https://github.com/dedasema/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedasema)](https://github.com/dedasema/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedasema&layout=compact)](https://github.com/dedasema/github-readme-stats)
 <!--
 **dedasema/dedasema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
