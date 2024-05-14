@@ -36,7 +36,8 @@
 - 🏠 No dudes en saludarme **👋🏽** en Discord [dedasema] mi nombre de usuario!
 <!--Intro end-->
 
-
+<br></br>
+<br></br>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -90,7 +91,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Conecta conimgo🤜🏽🤛🏽</h2></summary>
+    <summary><h2 style="display: inline-block">Conecta conmigo🤜🏽🤛🏽</h2></summary>
   </ul>
 </div>
 
