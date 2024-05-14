@@ -8,19 +8,18 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">FRONTEND DEVELOPER</h2></summary>
   </ul>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
 
@@ -97,11 +96,11 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"   
+  <a href="www.linkedin.com/in/dennis-sejas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"   
   alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" 
+  <a href="https://www.instagram.com/dedasema/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" 
   alt="Instagram"></a>
-  <a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" 
+  <a href="https://www.facebook.com/dennisdavid.sejasmamani" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" 
   alt="Facebook"></a>
 </p>
 
