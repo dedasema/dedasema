@@ -25,12 +25,12 @@
 
 <!--Intro start-->
 
-- 🌱 Actualmente estoy aprendiendo a **desarrollar sistemas web.**
+- 🌱 Actualmente estoy aprendiendo a **Desarrollar Sistemas Web.**
 
 - 🤖 Tengo un gran interés por la Inteligencia Artificial. Estoy aprendiendo **Python**
 
 
-- 📫 Siéntete libre de contactarme en **dedasema73402@gmail.com**
+- 📫 Siéntete libre de contactarme en **dedasema734012@gmail.com**
 
 - 🏠 No dudes en saludarme **👋🏽** en Discord [dedasema] mi nombre de usuario!
 <!--Intro end-->
