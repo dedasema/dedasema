@@ -11,13 +11,13 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">SOFTWARE ENGINEER (FULLSTACK DEVELOPER)</h2></summary>
+    <summary><h2 style="display: inline-block">SOFTWARE AI ENGINEER (FULLSTACK DEVELOPER)</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
 
-- 🌱 Actualmente estoy mejorando en el **Desarrollo de Sistemas Web.**
+- 🌱 Actualmente estoy mejorando en el área de **Implementación de IA en el Software.**
 
 - 🤖 Tengo un gran interés por la Inteligencia Artificial. Estoy aprendiendo **Python**
 
